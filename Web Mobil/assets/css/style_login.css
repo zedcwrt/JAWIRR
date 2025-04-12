@@ -8,7 +8,7 @@
 
 /*Background*/
 body {
-  background-image: url('SignLog.png');
+  background-image: url('../images/SignLog.png');
   background-size: cover; /* Ensures the image covers the whole background */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents repeating */
